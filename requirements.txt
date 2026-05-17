@@ -1,5 +1,6 @@
 streamlit
-transformers==4.40.0
+transformers==4.44.0
+tokenizers==0.19.1
 torch==2.2.2
 sentencepiece
 accelerate
