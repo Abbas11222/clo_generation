@@ -1,7 +1,7 @@
 streamlit
 transformers==4.44.0
 tokenizers==0.19.1
-torch==2.2.2
+torch
 sentencepiece
 accelerate
 python-docx
